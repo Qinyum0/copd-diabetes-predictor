@@ -129,7 +129,7 @@ if __name__ == '__main__':
 # In[5]:
 
 
-# get_ipython().system('jupyter nbconvert --to script "2型糖尿病模型网站1.0.ipynb"')
+get_ipython().system('jupyter nbconvert --to script "2型糖尿病模型网站1.0.ipynb"')
 
 
 # In[ ]:
